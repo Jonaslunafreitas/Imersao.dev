@@ -42,8 +42,6 @@ $ git clone https://github.com/Jonaslunafreitas/imersao.dev.git &&  cd imersao.d
 
   
 
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜
-
   
 
 This is a project developed during the **[Irmesão.dev](https://imersao.dev/)**, presented by **[@Alura](https://www.alura.com.br/)** during March 22-03 April, 2021.
